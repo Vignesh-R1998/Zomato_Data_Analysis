@@ -18,3 +18,5 @@ The dataset downloaded is a comprehensive collection of 802 restaurants that are
 - Next time around Hyderabad I know what you would love to Eat !
 - From the dashboard, we observe that the restaurants next on the list also belong to the **biriyani family!**
 - If you have plans to open a restaurant in the near future, be sure to include **biriyani** on your menu. It's a popular choice that people love!
+
+- ## Detailed Explanation About this project is available in my Notion Link: https://spice-look-fc5.notion.site/Zomato-Data-Analysis-7693d4ab79344d9cb75913c9e5fd1c51?pvs=4
